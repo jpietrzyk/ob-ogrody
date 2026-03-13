@@ -57,4 +57,4 @@ Proponuję w ogóle zrezygnować z WordPress - chyba i tak nie zmieniacie w nim 
 
 ### Główna rekomendacja Strapi + Next.js z alternatywami
 
-**- **Wpływ:**** Najlepsza równowaga kosztu, wydajności i możliwości, znaczne korzyści długoterminowe
+Najlepsza równowaga kosztu, wydajności i możliwości, znaczne korzyści długoterminowe
