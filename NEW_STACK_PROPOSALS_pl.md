@@ -23,6 +23,10 @@ Ten dokument przedstawia kompleksowe propozycje migracji strony Obierzyńscy Ogr
 
 ## Przegląd Architektury
 
+> **Skrócony Opis:** Porównanie obecnej monolitycznej architektury WordPress z proponowaną architekturą headless CMS, która oddziela zarządzanie treścią od prezentacji.
+
+> **Wpływ na Biznes:** Nowa architektura pozwala na znacznie szybsze ładowanie stron (60-80%), niższe koszty hostingu, łatwiejsze skalowanie i lepsze pozycje w Google, co zwiększy liczbę klientów i przychody.
+
 ### Obecna Architektura
 ```
 WordPress (Monolityczny)
@@ -52,6 +56,10 @@ CDN i Sieć Brzegowa
 ---
 
 ## Opcje Headless CMS
+
+> **Skrócony Opis:** Przegląd czterech różnych systemów zarządzania treścią bez głowy (Strapi, Contentful, Sanity, WordPress Headless) z ich zaletami, wadami i kosztami.
+
+> **Wpływ na Biznes:** Wybór odpowiedniego systemu zależy od budżetu, potrzeb zespołu i wymagań projektu. Każda opcja oferuje unikalne korzyści, ale Strapi jest zalecany jako najlepsza równowaga między kosztem, wydajnością i możliwościami.
 
 ### Opcja 1: Strapi (Zalecana)
 
@@ -325,6 +333,10 @@ Wdrożenie:
 ---
 
 ## Szczegóły Stosu Frontendu
+
+> **Skrócony Opis:** Szczegółowy opis nowoczesnych technologii frontendowych (React 18, Vite, Tailwind CSS) oraz zalecanych bibliotek i komponentów UI.
+
+> **Wpływ na Biznes:** Użycie nowoczesnych narzędzi przyspiesza rozwój, poprawia jakość kodu i zapewnia lepsze doświadczenie użytkownika. Deweloperzy są bardziej produktywni, co zmniejsza koszty i czas wdrożenia nowych funkcji.
 
 ### Główne Technologie
 
@@ -657,6 +669,10 @@ export function Services() {
 
 ## Infrastruktura i Wdrożenie
 
+> **Skrócony Opis:** Rekomendacje dotyczące hostingu (Vercel, Railway, Cloudflare), automatyzacji (GitHub Actions) i potoku wdrożeniowego dla nowej architektury.
+
+> **Wpływ na Biznes:** Profesjonalna infrastruktura zapewnia wysoką dostępność (99.9%+), automatyczne wdrożenia bez przestojów, łatwe skalowanie i niskie koszty operacyjne. Strona jest zawsze dostępna i szybka dla klientów.
+
 ### Zalecany Stos
 
 #### Hosting Frontendu: Vercel
@@ -733,6 +749,10 @@ jobs:
 ---
 
 ## Modele Treści
+
+> **Skrócony Opis:** Struktura danych dla wszystkich typów treści na stronie (usługi, projekty, galeria, zespół), które będą zarządzane przez system headless CMS.
+
+> **Wpływ na Biznes:** Zorganizowana struktura treści ułatwia zarządzanie, pozwala na łatwe dodawanie nowych treści i zapewnia spójność danych. Redukuje błędy i przyspiesza proces publikacji nowych usług i projektów.
 
 ### Model Treści Usługi
 ```typescript
@@ -813,6 +833,10 @@ interface TeamMember {
 
 ## Strategia Migracji
 
+> **Skrócony Opis:** Szczegółowy, 4-fazowy plan migracji podzielony na 6 miesięcy, obejmujący planowanie, migrację treści, rozwój frontendu i wdrożenie.
+
+> **Wpływ na Biznes:** Stopniowa migracja minimalizuje ryzyko przestojów i pozwala na testowanie nowych rozwiązań przed pełnym wdrożeniem. Jasna mapa drogowa pozwala na lepsze zarządzanie budżetem i zasobami.
+
 ### Faza 1: Planowanie i Konfiguracja (2-3 tygodnie)
 1. **Analiza Wymagań**
    - Zdefiniuj modele treści
@@ -892,6 +916,10 @@ interface TeamMember {
 ---
 
 ## Analiza Kosztów
+
+> **Skrócony Opis:** Szczegółowe zestawienie kosztów rozwoju i bieżących dla wszystkich czterech opcji headless CMS, z podziałem na koszty jednorazowe i miesięczne.
+
+> **Wpływ na Biznes:** Transparentne koszty pozwalają na dokładne planowanie budżetu. Inwestycja $12,000-25,000 zwróci się poprzez zwiększoną konwersję, niższe koszty utrzymania ($141-521/miesiąc) i lepsze pozycje SEO.
 
 ### Koszty Rozwoju
 
@@ -981,6 +1009,10 @@ interface TeamMember {
 
 ## Harmonogram i Mapa Drogowa
 
+> **Skrócony Opis:** Szczegółowy harmonogram 6-miesięczny z podziałem na miesiące i tygodnie, w tym kluczowe kamienie milowe i etapy projektu.
+
+> **Wpływ na Biznes:** Jasny harmonogram pozwala na śledzenie postępów, zarządzanie oczekiwaniami interesariuszy i terminowe dostarczanie projektu. Regularne kamienie milowe zapewniają, że projekt jest na dobrej drodze.
+
 ### Harmonogram 6-miesięczny
 
 ```
@@ -1019,6 +1051,10 @@ Miesiąc 6: Wdrożenie
 
 ## Ocena Ryzyka
 
+> **Skrócony Opis:** Identyfikacja i ocena potencjalnych ryzyk technicznych i biznesowych związanych z migracją, wraz ze strategiami łagodzenia.
+
+> **Wpływ na Biznes:** Proaktywne zarządzanie ryzykiem minimalizuje szanse na opóźnienia, przekroczenie budżetu lub problemy po wdrożeniu. Przygotowane plany awaryjne zapewniają ciągłość działalności.
+
 ### Ryzyka Techniczne
 
 | Ryzyko | Prawdopodobieństwo | Wpływ | Łagodzenie |
@@ -1041,6 +1077,10 @@ Miesiąc 6: Wdrożenie
 ---
 
 ## Rekomendacje
+
+> **Skrócony Opis:** Zalecenia dotyczące wyboru odpowiedniego stosu technologicznego, z główną rekomendacją Strapi + Next.js oraz alternatywami dla różnych potrzeb i budżetów.
+
+> **Wpływ na Biznes:** Wybór zalecanego stosu zapewnia najlepszą równowagę między kosztem, wydajnością i możliwościami rozwoju. Inwestycja w nowoczesną architekturę przyniesie znaczne korzyści długoterminowe dla firmy.
 
 ### Główna Rekomendacja: Strapi + Next.js
 

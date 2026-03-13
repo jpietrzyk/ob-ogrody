@@ -8,6 +8,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 
 ## 1. Obecny Stos Technologiczny
 
+> **Skrócony Opis:** Strona korzysta z przestarzałych technologii z 2019 roku, w tym WordPress 5.1.22, motyw Astra i kreator stron Elementor, które generują nadmiarowy kod i spowalniają działanie witryny.
+
+> **Wpływ na Biznes:** Przestarzałe oprogramowanie naraża stronę na luki w zabezpieczeniach, powoduje słabą wydajność i utrudnia utrzymanie. Użytkownicy doświadczają powolnego ładowania, co może prowadzić do utraty klientów.
+
 ### 1.1 Główne Technologie
 - **CMS**: WordPress 5.1.22 (przestarzały - aktualna wersja to 6.x)
 - **Motyw**: Astra 1.6.2 (przestarzały)
@@ -37,6 +41,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 ---
 
 ## 2. Problemy z Wydajnością
+
+> **Skrócony Opis:** Strona ma poważne problemy z wydajnością, w tym 10MB+ plików CSS, niezoptymalizowane obrazy (48MB), i ciężki JavaScript, co powoduje bardzo powolne ładowanie strony.
+
+> **Wpływ na Biznes:** Użytkownicy czekają długo na załadowanie strony, co zwiększa współczynnik odrzuceń i zmniejsza szanse na konwersję. Słaba wydajność negatywnie wpływa na pozycje w wynikach wyszukiwania Google.
 
 ### 2.1 Krytyczne Problemy z Wydajnością
 
@@ -86,6 +94,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 
 ## 3. Problemy z Dostępnością
 
+> **Skrócony Opis:** Strona nie spełnia standardów dostępności WCAG - brak opisów dla obrazów, niewidoczne wskaźniki fokusu dla klawiatury, i słaba implementacja etykiet ARIA.
+
+> **Wpływ na Biznes:** Osoby z niepełnosprawnościami nie mogą efektywnie korzystać ze strony, co wyklucza część potencjalnych klientów i naraża firmę na ryzyko prawne w krajach z wymogami dostępności.
+
 ### 3.1 Krytyczne Problemy z Dostępnością
 
 #### 3.1.1 Brakujący Tekst Alt
@@ -120,6 +132,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 
 ## 4. Problemy SEO
 
+> **Skrócony Opis:** Mimo obecności wtyczki Yoast SEO, strona traci na pozycjach w wynikach wyszukiwania ze względu na słabą wydajność, przestarzałe oprogramowanie i niezoptymalizowane zasoby.
+
+> **Wpływ na Biznes:** Niższe pozycje w Google oznaczają mniej organicznego ruchu i mniejszą widoczność firmy. Klienci szukający usług ogrodniczych mogą nie znaleźć strony, co przekłada się na utracone zyski.
+
 ### 4.1 Pozytywne Aspekty SEO
 - ✓ Zainstalowana wtyczka Yoast SEO
 - ✓ Obecne opisy meta
@@ -137,6 +153,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 ---
 
 ## 5. Problemy z Jakością Kodu
+
+> **Skrócony Opis:** Kod strony jest nadmiarowy i trudny w utrzymaniu - pliki HTML mają ponad 1000 linii z głębokim zagnieżdżeniem, a CSS zawiera wiele stylów inline i deklaracji !important.
+
+> **Wpływ na Biznes:** Trudne i kosztowne wprowadzanie zmian na stronie. Każda modyfikacja wymaga więcej czasu i zasobów, co zwiększa koszty utrzymania i opóźnia wdrożenie nowych funkcji.
 
 ### 5.1 Struktura HTML
 - **Problem**: 1114 linii w index.html (nadmiarowe)
@@ -157,6 +177,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 
 ## 6. Obawy Bezpieczeństwa
 
+> **Skrócony Opis:** Strona używa przestarzałego WordPressa 5.1.22 z wieloma znanymi lukami w zabezpieczeniach, ma mieszane treści HTTP/HTTPS i włączony XML-RPC bez odpowiednich zabezpieczeń.
+
+> **Wpływ na Biznes:** Wysokie ryzyko ataku hakerskiego, kradzieży danych lub zainfekowania strony. Może to doprowadzić do wyłączenia witryny, utraty zaufania klientów i poważnych szkód wizerunkowych.
+
 ### 6.1 Krytyczne Problemy Bezpieczeństwa
 1. **Przestarzały WordPress 5.1.22**: Wiele znanych luk
 2. **Przestarzałe Wtyczki**: Nie zastosowano poprawek bezpieczeństwa
@@ -174,6 +198,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 ---
 
 ## 7. Rekomendacje Ulepszeń Frontendu
+
+> **Skrócony Opis:** Szereg propozycji ulepszeń podzielonych na natychmiastowe (naprawa błędów), średnioterminowe (modernizacja technologii) i długoterminowe (migracja do nowoczesnego stosu).
+
+> **Wpływ na Biznes:** Stopniowe ulepszanie strony poprawi wydajność, bezpieczeństwo i doświadczenie użytkownika, co zwiększy konwersje i zmniejszy koszty utrzymania w długim okresie.
 
 ### 7.1 Natychmiastowe Działania (Wysoki Priorytet)
 
@@ -262,6 +290,10 @@ Ten raport przedstawia kompleksową analizę strony internetowej Obierzyńscy Og
 ---
 
 ## 8. Rekomendacja Rozdzielenia Frontendu i Backendu
+
+> **Skrócony Opis:** Propozycja migracji z monolitycznego WordPressa do architektury headless CMS, gdzie backend zarządza treścią, a nowoczesny frontend (React/Next.js) ją wyświetla.
+
+> **Wpływ na Biznes:** Dramatyczna poprawa wydajności (60-80% szybsze ładowanie), niższe koszty hostingu, lepsze pozycje SEO i łatwiejsze wprowadzanie zmian. Inwestycja zwróci się poprzez zwiększoną konwersję i mniejsze koszty utrzymania.
 
 ### 8.1 Dlaczego Rozdzielić Frontend i Backend?
 
@@ -452,6 +484,10 @@ Infrastruktura:
 
 ## 9. Macierz Priorytetów
 
+> **Skrócony Opis:** Zorganizowany plan działań podzielony na natychmiastowe (tydzień), krótkoterminowe (1-2 miesiące), średnioterminowe (3-6 miesięcy) i długoterminowe (6-12 miesięcy).
+
+> **Wpływ na Biznes:** Jasna mapa drogowa pozwala na stopniowe ulepszanie strony bez przerywania działalności. Priorytetyzacja zapewnia, że najważniejsze problemy są rozwiązywane najpierw, maksymalizując wpływ na biznes.
+
 ### 9.1 Natychmiastowe Działania (Ten Tydzień)
 1. ✅ Zaktualizuj WordPress do najnowszej wersji
 2. ✅ Zaktualizuj wszystkie wtyczki i motywy
@@ -481,6 +517,10 @@ Infrastruktura:
 ---
 
 ## 10. Wnioski
+
+> **Skrócony Opis:** Podsumowanie najważniejszych problemów i rekomendacji, w tym krytyczne problemy z wydajnością i bezpieczeństwem oraz plan migracji do nowoczesnej architektury headless CMS.
+
+> **Wpływ na Biznes:** Wdrożenie rekomendacji poprawi bezpieczeństwo i wydajność strony, zwiększy zaufanie klientów i pozycje w wyszukiwarkach, co przełoży się na więcej zapytań o usługi i wyższe przychody.
 
 Strona Obierzyńscy Ogrody ma znaczące problemy z wydajnością, bezpieczeństwem i dostępnością, które wymagają natychmiastowej uwagi. Obecna konfiguracja WordPress z Elementorem powoduje nadmierną zaszłość i słabą wydajność.
 
