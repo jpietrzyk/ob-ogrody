@@ -41,20 +41,20 @@ Proponuję w ogóle zrezygnować z WordPress - chyba i tak nie zmieniacie w nim 
 
 #### 4 opcje (Strapi, Contentful, Sanity, WordPress Headless)
 
-**Wpływ:** Wybór zależny od budżetu i potrzeb, Strapi zalecany jako najlepsza równowaga
+- **Wpływ:** Wybór zależny od budżetu i potrzeb, Strapi zalecany jako najlepsza równowaga
 
 #### React 18, Vite, Tailwind CSS + biblioteki UI
 
-**Wpływ:** Szybszy rozwój, lepsza jakość kodu, wyższa produktywność deweloperów
+- **Wpływ:** Szybszy rozwój, lepsza jakość kodu, wyższa produktywność deweloperów
 
 #### Hosting (Vercel, Railway, Cloudflare), CI/CD (GitHub Actions)
 
-**Wpływ:** 99.9%+ dostępność, automatyczne wdrożenia, łatwe skalowanie, niskie koszty
+- **Wpływ:** 99.9%+ dostępność, automatyczne wdrożenia, łatwe skalowanie, niskie koszty
 
 #### Struktura danych dla usług, projektów, galerii, zespołu
 
-**Wpływ:** Łatwe zarządzanie treścią, spójność danych, szybsza publikacja
+- **Wpływ:** Łatwe zarządzanie treścią, spójność danych, szybsza publikacja
 
 ### Główna rekomendacja Strapi + Next.js z alternatywami
 
-****Wpływ:**** Najlepsza równowaga kosztu, wydajności i możliwości, znaczne korzyści długoterminowe
+**- **Wpływ:**** Najlepsza równowaga kosztu, wydajności i możliwości, znaczne korzyści długoterminowe
