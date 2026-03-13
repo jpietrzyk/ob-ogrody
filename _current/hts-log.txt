@@ -1,0 +1,45 @@
+HTTrack3.49-6 launched on Fri, 13 Mar 2026 21:20:10 at https://obierzynscy-ogrody.pl/
+(httrack https://obierzynscy-ogrody.pl/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:24:21	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/projektowanie-ogrodow/
+21:24:21	Warning: 	Warning moved treated for https://obierzynscy-ogrody.pl/projektowanie-ogrodow/ (real one is https://obierzynscy-ogrody.pl/wp-content/uploads/2019/01/projektowanie-ogrod%C3%B3w.jpg)
+21:24:21	Error: 	"Not Found" (404) at link https://obierzynscy-ogrody.pl/wykonywanie-ogrodow/ (from https://obierzynscy-ogrody.pl/)
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=14
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=14 to https://obierzynscy-ogrody.pl/o-nas/
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=16
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=16 to https://obierzynscy-ogrody.pl/galeria/
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1393
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1393 to https://obierzynscy-ogrody.pl/galeria-wizualizacji/
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=15
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=15 to https://obierzynscy-ogrody.pl/projektowanie-ogrodow-2/
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1042
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1042 to https://obierzynscy-ogrody.pl/pielegnacja-ogrodow/
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1053
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1053 to https://obierzynscy-ogrody.pl/sciezki-komunikacyjne/
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1045
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1045 to https://obierzynscy-ogrody.pl/modernizacja-ogrodow/
+21:24:39	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1047
+21:24:39	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1047 to https://obierzynscy-ogrody.pl/systemy-automatycznego-nawadniania/
+21:24:41	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1049
+21:24:41	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1049 to https://obierzynscy-ogrody.pl/oswietlenie-ogrodow/
+21:24:41	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1051
+21:24:41	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1051 to https://obierzynscy-ogrody.pl/trawniki-rolowane/
+21:24:41	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1055
+21:24:41	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1055 to https://obierzynscy-ogrody.pl/murki-skalne-i-ogrodowe/
+21:24:41	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=1057
+21:24:41	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=1057 to https://obierzynscy-ogrody.pl/oczka-i-kaskady-wodne/
+21:24:41	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/?p=17
+21:24:41	Warning: 	File has moved from https://obierzynscy-ogrody.pl/?p=17 to https://obierzynscy-ogrody.pl/kontakt/
+21:24:41	Warning: 	Moved Permanently for https://obierzynscy-ogrody.pl/kontakt/"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg=="
+21:24:41	Warning: 	File has moved from https://obierzynscy-ogrody.pl/kontakt/"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==" to https://obierzynscy-ogrody.pl/kontakt/%22data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==
+21:24:43	Error: 	"Not Found" (404) at link https://obierzynscy-ogrody.pl/Version/ (from https://obierzynscy-ogrody.pl/wp-content/cache/minify/3d9a8.js)
+21:24:43	Error: 	"Not Found" (404) at link https://obierzynscy-ogrody.pl/version/ (from https://obierzynscy-ogrody.pl/wp-content/cache/minify/3d9a8.js)
+21:24:43	Error: 	"Not Found" (404) at link https://obierzynscy-ogrody.pl/kontakt/%22data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg== (from https://obierzynscy-ogrody.pl/kontakt/"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABHklEQVQ4EaVTO26DQBD1ohQWaS2lg9JybZ+AK7hNwx2oIoVf4UPQ0Lj1FdKktevIpel8AKNUkDcWMxpgSaIEaTVv3sx7uztiTdu2s/98DywOw3Dued4Who/M2aIx5lZV1aEsy0+qiwHELyi+Ytl0PQ69SxAxkWIA4RMRTdNsKE59juMcuZd6xIAFeZ6fGCdJ8kY4y7KAuTRNGd7jyEBXsdOPE3a0QGPsniOnnYMO67LgSQN9T41F2QGrQRRFCwyzoIF2qyBuKKbcOgPXdVeY9rMWgNsjf9ccYesJhk3f5dYT1HX9gR0LLQR30TnjkUEcx2uIuS4RnI+aj6sJR0AM8AaumPaM/rRehyWhXqbFAA9kh3/8/NvHxAYGAsZ/il8IalkCLBfNVAAAAABJRU5ErkJggg==")
+
+HTTrack Website Copier/3.49-6 mirror complete in 4 minutes 33 seconds : 296 links scanned, 276 files written (66844943 bytes overall) [54917964 bytes received at 201164 bytes/sec], 15777264 bytes transferred using HTTP compression in 100 files, ratio 22%, 7.0 requests per connection
+(4 errors, 30 warnings, 0 messages)
